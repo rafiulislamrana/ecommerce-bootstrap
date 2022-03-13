@@ -71,3 +71,26 @@
 .cat h3{
     color: white
 }
+.cat-link{
+    text-decoration: none;
+}
+.newsletter{
+    padding: 70px 200px;
+    background-color: #FEEAE9;
+    border-radius: 8px;
+    text-align: center;
+}
+.newsletter p{
+    font-size: 14px;
+}
+.newsletter input{
+    border: none;
+    padding: 13px;
+}
+.footer p{
+    text-align: center;
+    font-size: 14px;
+}
+.footer p a{
+    text-decoration: none;
+}
