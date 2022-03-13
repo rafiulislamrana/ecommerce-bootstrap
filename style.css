@@ -10,6 +10,22 @@
 .mt-50{
     margin-top: 50px;
 }
+.mt-15{
+    margin-top: 15px;
+}
+.mt-5{
+    margin-top: 5px;
+}
+.pl-5{
+    padding-left: 5px;
+}
+.ta-c{
+    text-align: center;
+}
+.bta-c{
+    margin: auto;
+    display: block;
+}
 .bg{
     background-color: #FEEAE9;
 }
@@ -32,22 +48,25 @@
     background-image: linear-gradient(120deg, #FF9C35, #FFD019);
     border-radius: 8px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
+    padding: 10px 20px;
 }
 .cat-2{
     background-image: linear-gradient(120deg, #FF589B, #FF136F);
     border-radius: 8px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
+    padding: 10px 20px;
 }
 .cat-3{
     background-image: linear-gradient(120deg, #4289FF, #3F07F8);
     border-radius: 8px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
+    padding: 10px 20px;
 }
 .cat h3{
     color: white
